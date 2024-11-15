@@ -93,16 +93,16 @@ Once out of your BIOS, boot up Virtual Box and click on the New option:  <br/>
 <br />
 <br />
 <br />
-Once on this page, enter the installation file of linux into the ISO Image option. Next, name the virtual machine "Linux" and create.:  <br/>
+Once on this page, enter the installation file of linux into the ISO Image option. Next, name the virtual machine "Linux" and create:  <br/>
 <br />
-<img src="https://snipboard.io/RSlYIa.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/h8RdBW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br />
 Enable the Guest Additions option and press next:  <br/>
 <br />
-<img src="https://snipboard.io/QZYOHp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/n2cLgt.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
@@ -114,10 +114,108 @@ Choose the amount of memory and processing power you'd like to give to the virtu
 <br />
 <br />
 <br />
+For the rest of the configuration pop-ups, click next for the default option. Choose a low amount of storage; it's not necessary. Finally, click Create.:  <br/>
+<br />
+<img src="https://snipboard.io/bj6WMv.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Once created, press Start on Virtual Lab. Then click on Try on Install Ubuntu, then wait:  <br/>
+<br />
+<img src="https://snipboard.io/fI8i1x.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Enter the configurations that you'd like:  <br/>
+<br />
+<img src="https://snipboard.io/7YCvAq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://snipboard.io/UvObIq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://snipboard.io/jwxlyn.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Click on the Erase Disk and Install Ubuntu option and press on Install Now:  <br/>
+<br />
+<img src="https://snipboard.io/po7a8m.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Create your account:  <br/>
+<br />
+<img src="https://snipboard.io/06xSni.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Wait for the download and then click Restart Now when done:  <br/>
+<br />
+<img src="https://snipboard.io/tpyk3o.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Enter your account information:  <br/>
+<br />
+<img src="https://snipboard.io/VcLZmE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Once on the home of your operating system, click on Terminal:  <br/>
+<br />
+<img src="https://snipboard.io/N8vCqU.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://snipboard.io/T16S5R.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Follow the commands on the terminal:  <br/>
+<br />
+<br />
+<br />
+These commands ensure that both docker and docker composed are installed. If it's not, then it'll download for you:  <br/>
+<br />
+<img src="https://snipboard.io/GC68jJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://snipboard.io/wljNFT.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://snipboard.io/OrkgF3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://snipboard.io/vc15Ji.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+When you're at this page you're gonna need to copy and paste the command from https://github.com/Peppermint-Lab/peppermint back to the original page. When done copying and pasting you're gonna wanna press ctrl+x, ctrl+y, ctrl+enter to save:  <br/>
+<br />
+<img src="https://snipboard.io/3pdxym.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/utfID9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://snipboard.io/tVC5PT.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+This command starts your Docker application and all services in the YAML file. When you enter this command, wait for the command to download:  <br/>
+<br />
+<img src="https://snipboard.io/dQZtro.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+The page should read the IP address including the host that you need to enter into your web search bar engine. By entering the IP address you will be sent to your peppermint ticketing system. :  <br/>
+<br />
+<img src="https://snipboard.io/7Vr9zd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
 
 
-
- 
 <!--
  ```diff
 - text in red

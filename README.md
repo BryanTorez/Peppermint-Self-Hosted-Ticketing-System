@@ -207,15 +207,20 @@ This command starts your Docker application and all services in the YAML file. W
 <br />
 <br />
 <br />
-The page should read the IP address including the host that you need to enter into your web search bar engine. By entering the IP address you will be sent to your peppermint ticketing system. :  <br/>
+The page should read the IP address including the host that you need to enter into your web search bar engine. By entering the IP address, host, and website link you will be sent to your own homemade peppermint ticketing system login:  <br/>
 <br />
 <img src="https://snipboard.io/7Vr9zd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://snipboard.io/bXlZDU.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://snipboard.io/V38Weo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+<br />
+<br />
+The password and your email address is the same for every individual since the link to the website is already specified alone to every user. The email address is admin@admin.com. The password is 1234.:  <br/>
+<br />
+<img src="https://snipboard.io/Yqklg7.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>` 
 
 <!--
  ```diff

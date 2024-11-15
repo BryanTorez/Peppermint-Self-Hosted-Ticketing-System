@@ -211,6 +211,7 @@ The page should read the IP address including the host that you need to enter in
 <br />
 <img src="https://snipboard.io/7Vr9zd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://snipboard.io/bXlZDU.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
